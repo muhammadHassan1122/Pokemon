@@ -1,0 +1,79 @@
+.one{
+    background-color: silver!important;
+    color: white!important;
+}
+
+.two:hover{
+    background-color: red;
+    color: white;
+}
+.three:hover{
+    background-color: orange;
+    color: white;
+}
+.four:hover{
+    background-color: yellow;
+    color: white;
+}
+.five:hover{
+    background-color: green;
+    color: white;
+}
+.six:hover{
+    background-color: #0000ee;
+    color: white;
+}
+
+.seven:hover{
+    background-color: blue;
+    color: white;
+}
+
+body{
+    background-image: url(https://assets.pokemon.com/static2/_ui/img/chrome/body_bg.png);
+}
+.welcome{
+    position: sticky !important;
+    top: 0;
+    z-index: 1;
+
+}
+.special{
+    list-style-type: none;
+    margin-top: 3px;
+}
+.ONE:hover{
+    text-decoration: underline;
+}
+.TWO:hover{
+    text-decoration: underline;
+}
+.THREE:hover{
+    text-decoration: underline;
+}
+.FOUR:hover{
+    text-decoration: underline;
+}
+.FIVE:hover{
+    text-decoration: underline;
+}
+.SIX:hover{
+    text-decoration: underline;
+}
+.SEVEN:hover{
+    text-decoration: underline;
+}
+.amazing{
+    display: inline-block;
+    margin-left: 8px;
+    list-style-type: none;
+    width: 20px;
+    height: 30px;
+    display: inline;
+    margin-top: 0px;
+}
+.amazing li{
+    display: inline-block;
+    margin-left: 2px;
+    
+}
